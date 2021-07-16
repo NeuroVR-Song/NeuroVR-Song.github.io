@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/NeuroVR-Song/NeuroVR-Song.github.io.git
+	branch = master
