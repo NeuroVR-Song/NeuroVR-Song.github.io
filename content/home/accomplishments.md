@@ -4,7 +4,7 @@
 widget: accomplishments
 
 # This file represents a page section.
-headless: true
+headless: false
 
 # Order that this section appears on the page.
 weight: 50
@@ -25,7 +25,7 @@ date_format: Jan 2006
 item:
 - certificate_url: https://www.coursera.org
   date_end: ""
-  date_start: "2021-01-25"
+  date_start: "2021-02-28"
   description: ""
   organization: Coursera
   organization_url: https://www.coursera.org
